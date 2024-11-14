@@ -11,7 +11,10 @@ Liste as IAs Generativas e outras ferramentas usadas
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+  HistórIA  
+  rAIzes Podcast
+  Fragmentos de um Futuro Cibernético (Exposição de arte
 
+  
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
