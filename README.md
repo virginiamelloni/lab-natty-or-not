@@ -13,7 +13,8 @@ Descreva como você criou o conteúdo
 ## 🚀 Resultados
   HistórIA  
   rAIzes Podcast
-  Fragmentos de um Futuro Cibernético (Exposição de arte
+  
+  Fragmentos de um Futuro Cibernético (Exposição de arte)
 
   
 ## 💭 Reflexão (Opcional)
